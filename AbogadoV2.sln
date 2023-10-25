@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbogadoV2", "AbogadoV2\AbogadoV2.csproj", "{8FC6FF3B-475C-462A-9E62-C2E69E1AAFFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FC6FF3B-475C-462A-9E62-C2E69E1AAFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FC6FF3B-475C-462A-9E62-C2E69E1AAFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FC6FF3B-475C-462A-9E62-C2E69E1AAFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FC6FF3B-475C-462A-9E62-C2E69E1AAFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
